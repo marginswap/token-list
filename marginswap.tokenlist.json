@@ -3,9 +3,9 @@
   "timestamp": "2020-03-26T12:00:00+00:00",
   "logoURI": "https://github.com/marginswap/token-list/raw/main/marginswap-logo.png",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "keywords": [
     "marginswap",
@@ -19,7 +19,7 @@
           "name": "Wrapped BTC",
           "symbol": "WBTC",
           "decimals": 8,
-          "logoURI": "https://github.com/marginswap/token-list/blob/main/logo/wrapped-bitcoin.png?raw=true"
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/wrapped-bitcoin.png"
         },
         {
           "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -27,7 +27,7 @@
           "name": "Dai Stablecoin",
           "symbol": "DAI",
           "decimals": 18,
-          "logoURI": "https://github.com/marginswap/token-list/blob/main/logo/multi-collateral-dai.png?raw=true"
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/multi-collateral-dai.png"
         },
         {
           "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -35,7 +35,7 @@
           "name": "Tether USD",
           "symbol": "USDT",
           "decimals": 6,
-          "logoURI": "https://github.com/marginswap/token-list/blob/main/logo/tether.png?raw=true"
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/tether.png"
         },
         {
           "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -43,7 +43,7 @@
           "name": "USD Coin",
           "symbol": "USDC",
           "decimals": 6,
-          "logoURI": "https://github.com/marginswap/token-list/blob/main/logo/usd-coin.png?raw=true"
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/usd-coin.png"
         },
         {
           "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
@@ -51,7 +51,7 @@
           "name": "BarnBridge Governance Token",
           "symbol": "BOND",
           "decimals": 18,
-          "logoURI": "https://github.com/marginswap/token-list/blob/main/logo/barnbridge.png?raw=true"
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/barnbridge.png"
         },
         {
           "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
@@ -59,7 +59,7 @@
           "name": "Wrapped Ether",
           "symbol": "WETH",
           "decimals": 18,
-          "logoURI": "https://github.com/marginswap/token-list/blob/main/logo/ethereum.png?raw=true"
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/ethereum.png"
         }
   ]
 }
