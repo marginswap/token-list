@@ -5,12 +5,12 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "keywords": [
     "marginswap",
     "defi",
-    "cross-margin"
+    "crossmargin"
   ],
   "tokens": [
       {
@@ -48,7 +48,7 @@
         {
           "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
           "chainId": 1,
-          "name": "BarnBridge Governance Token",
+          "name": "BarnBridge",
           "symbol": "BOND",
           "decimals": 18,
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/barnbridge.png"
