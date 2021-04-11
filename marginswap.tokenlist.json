@@ -21,6 +21,14 @@
           "decimals": 8,
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/wrapped-bitcoin.png"
         },
+    {
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "chainId": 1,
+          "name": "Wrapped ETH",
+          "symbol": "WETH",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/marginswap/token-list/main/logo/ethereum.png"
+        },
         {
           "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
           "chainId": 1,
