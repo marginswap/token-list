@@ -3,7 +3,7 @@
   "timestamp": "2020-04-11T12:00:00+00:00",
   "logoURI": "https://github.com/marginswap/token-list/raw/main/marginswap-logo.png",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -20,7 +20,7 @@
           "symbol": "DAI",
           "decimals": 18,
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/multi-collateral-dai.png"
-        }, 
+        },
         {
           "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
           "chainId": 1,
@@ -28,6 +28,54 @@
           "symbol": "USDT",
           "decimals": 6,
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/tether.png"
+        },
+        {
+          "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+          "chainId": 1,
+          "name": "BarnBridge",
+          "symbol": "BOND",
+          "decimals": 18,
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/barnbridge.png"
+        },        
+        {
+          "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+          "chainId": 1,
+          "name": "Maker",
+          "symbol": "MKR",
+          "decimals": 18,
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/maker-mkr-logo.png"
+        },
+        {
+          "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+          "chainId": 1,
+          "name": "Sushi",
+          "symbol": "SUSHI",
+          "decimals": 18,
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/sushiswap-sushi-logo.png"
+        },        
+        {
+          "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+          "chainId": 1,
+          "name": "Uniswap",
+          "symbol": "UNI",
+          "decimals": 18,
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/uniswap-uni-logo.png"
+        },
+        {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "chainId": 1,
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "decimals": 6,
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/usd-coin.png"
+        },
+        {
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "chainId": 1,
+          "name": "Wrapped BTC",
+          "symbol": "WBTC",
+          "decimals": 8,
+          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/wrapped-bitcoin.png"
         }
   ]
 }
