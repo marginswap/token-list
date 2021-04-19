@@ -46,7 +46,7 @@
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/multi-collateral-dai.png"
         },
         {
-          "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+          "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
           "chainId": 1,
           "name": "Alchemix",
           "symbol": "ALCX",
@@ -78,7 +78,7 @@
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/barnbridge.png"
         },
         {
-          "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+          "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
           "chainId": 1,
           "name": "ChainLink",
           "symbol": "LINK",
@@ -86,7 +86,7 @@
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/chainlink-link-logo.png"
         },
         {
-          "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+          "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
           "chainId": 1,
           "name": "Uniswap",
           "symbol": "UNI",
@@ -102,7 +102,7 @@
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/maker-mkr-logo.png"
         },
         {
-          "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+          "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
           "chainId": 1,
           "name": "Sushi",
           "symbol": "SUSHI",
@@ -110,7 +110,7 @@
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/sushiswap-sushi-logo.png"
         },
         {
-          "address": "0x4f96fe3b7a6cf9725f59d353f723c1bdb64ca6aa",
+          "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
           "chainId": 42,
           "name": "Dai Stablecoin",
           "symbol": "DAI",
@@ -118,7 +118,7 @@
           "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/multi-collateral-dai.png"
         },
         { 
-          "address": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
+          "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
           "chainId": 42,
           "name": "Wrapped ETH",
           "symbol": "WETH",
@@ -126,7 +126,7 @@
           "logoURI": "https://raw.githubusercontent.com/marginswap/token-list/main/logo/ethereum.png"
         },
         {
-          "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+          "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
           "chainId": 42,
           "name": "Uniswap",
           "symbol": "UNI",
