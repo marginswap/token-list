@@ -3,7 +3,7 @@
   "timestamp": "2020-04-11T12:00:00+00:00",
   "logoURI": "https://github.com/marginswap/token-list/raw/main/marginswap-logo.png",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
@@ -160,6 +160,22 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/tether.png"
-    }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/png.png"
+    },
+    {
+       "chainId": 43114,
+       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+       "decimals": 18,
+       "name": "Wrapped AVAX",
+       "symbol": "WAVAX",
+       "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/wavax.png"
+     }
   ]
 }
