@@ -146,7 +146,7 @@
       "logoURI": "https://raw.githubusercontent.com/marginswap/token-list/main/logo/ethereum.png"
     },
     {
-      "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+      "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
       "chainId": 43114,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
